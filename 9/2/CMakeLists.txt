@@ -1,0 +1,24 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(cmake_project)
+add_executable(cmake_project
+	2/2.cpp
+	2/2.h
+	2/triangle.cpp
+	2/triangle.h
+	2/equitriangle.cpp
+	2/equitriangle.h
+	2/issostriangle.cpp
+	2/issostriangle.h
+	2/parallelogram.cpp
+	2/parallelogram.h
+	2/quadrangle.cpp
+	2/quadrangle.h
+	2/RAtriangle.cpp
+	2/RAtriangle.h
+	2/rectangle.cpp
+	2/rectangle.h
+	2/rhomb.cpp
+	2/rhomb.h
+	2/square.cpp
+	2/square.h
+)

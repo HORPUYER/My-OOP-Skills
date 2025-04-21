@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(sayHello)
+add_library(LibLib STATIC Lib.h Lib.cpp)
+add_executable(sayHelloExe Hello.cpp)
+target_link_libraries(sayHelloExe LibLib)

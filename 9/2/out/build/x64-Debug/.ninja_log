@@ -1,0 +1,12 @@
+# ninja log v5
+22	313	7332616001865136	CMakeFiles/cmake_project.dir/2/rectangle.cpp.obj	50764e2b8728d8c9
+5	314	7332616001865136	CMakeFiles/cmake_project.dir/2/triangle.cpp.obj	cc5aa467b557c6eb
+9	315	7332616001865136	CMakeFiles/cmake_project.dir/2/issostriangle.cpp.obj	b3a0e53c56558371
+12	316	7332616001875110	CMakeFiles/cmake_project.dir/2/parallelogram.cpp.obj	6ad9c7e4718fdc04
+7	316	7332616001924971	CMakeFiles/cmake_project.dir/2/equitriangle.cpp.obj	436b058819f90d0c
+15	316	7332616001915000	CMakeFiles/cmake_project.dir/2/quadrangle.cpp.obj	db94756772b7fa84
+19	318	7332616001964862	CMakeFiles/cmake_project.dir/2/RAtriangle.cpp.obj	3204fdf44fc0fe37
+27	319	7332616001964862	CMakeFiles/cmake_project.dir/2/rhomb.cpp.obj	a2c7b9d6225a65dc
+30	330	7332616002084532	CMakeFiles/cmake_project.dir/2/square.cpp.obj	8cc3d16eb60feb9d
+2	466	7332616003446786	CMakeFiles/cmake_project.dir/2/2.cpp.obj	bb833d35e0661f72
+467	1202	7332616007561459	cmake_project.exe	bc72bd10509f7d32

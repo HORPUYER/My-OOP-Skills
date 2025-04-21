@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/NETO OOP C++/Library/1/out/out/build/x64-Debug/CMakeFiles/sayHelloExe.dir/embed.manifest"

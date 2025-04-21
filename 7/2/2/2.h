@@ -1,0 +1,11 @@
+#pragma once
+#include "triangle.h"
+#include "equitriangle.h"
+#include"RAtriangle.h"
+#include"issostriangle.h"
+#include"quadrangle.h"
+#include"square.h"
+#include"rectangle.h"
+#include"parallelogram.h"
+#include"rhomb.h"
+#include"exep.h"

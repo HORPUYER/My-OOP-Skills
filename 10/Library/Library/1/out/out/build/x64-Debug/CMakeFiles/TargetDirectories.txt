@@ -1,0 +1,4 @@
+D:/NETO OOP C++/Library/1/out/out/build/x64-Debug/CMakeFiles/LibLib.dir
+D:/NETO OOP C++/Library/1/out/out/build/x64-Debug/CMakeFiles/sayHelloExe.dir
+D:/NETO OOP C++/Library/1/out/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/NETO OOP C++/Library/1/out/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

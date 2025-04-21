@@ -1,0 +1,9 @@
+# ninja log v5
+4	634	7361204481588327	CMakeFiles/LibLib.dir/Lib.cpp.obj	faf63f974f5d9eee
+635	706	7361204482213279	LibLib.lib	9a6b686ac409eb62
+10	933	7361204484557047	CMakeFiles/sayHelloExe.dir/Hello.cpp.obj	db838eac219dfd58
+934	1298	7361204488003055	sayHelloExe.exe	dc74372747208cba
+25	842	7361205599692065	CMakeFiles/sayHelloExe.dir/Hello.cpp.obj	db838eac219dfd58
+843	1244	7361205602816834	sayHelloExe.exe	dc74372747208cba
+17	705	7361205880067794	CMakeFiles/sayHelloExe.dir/Hello.cpp.obj	db838eac219dfd58
+706	998	7361205882567618	sayHelloExe.exe	dc74372747208cba

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(SayBye)
+add_library(DinLib SHARED SayBye.h SayBye.cpp)
+add_executable(SayByeExe 3.cpp)
+target_link_libraries(SayByeExe DinLib)
